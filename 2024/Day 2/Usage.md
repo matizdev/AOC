@@ -7,6 +7,6 @@
 4. The result will be displayed indicating the number of safe reports.
 ## Haskell
 1. Open your terminal
-2. Type `runhaskell ReportAnalyzer.hs < "/path/to/your/input.txt"
+2. Type `runhaskell ReportAnalyzer.hs < "/path/to/your/input.txt"`
     ### Issues
    Make sure GHC is installed
